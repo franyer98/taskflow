@@ -4,6 +4,15 @@
 
 ![CI](https://github.com/franyer98/taskflow/actions/workflows/ci.yml/badge.svg)
 
+## 🌐 Demo en vivo
+
+**👉 [taskflow-phi-brown.vercel.app](https://taskflow-phi-brown.vercel.app/)**
+
+- API: [taskflow-rvwr.onrender.com](https://taskflow-rvwr.onrender.com) · [Documentación Swagger](https://taskflow-rvwr.onrender.com/docs)
+- 📱 Instalable como app en Android: abre el demo → menú del navegador → "Agregar a pantalla principal"
+
+> ⏳ El backend usa el plan gratuito de Render: la primera petición tras un rato de inactividad puede tardar ~50 segundos mientras despierta.
+
 TaskFlow es una aplicación web progresiva para gestionar proyectos con tableros Kanban: crea tableros, organiza tareas por columnas con **drag & drop**, asigna prioridades y fechas límite. Instalable en Android como app nativa.
 
 ## ✨ Características
